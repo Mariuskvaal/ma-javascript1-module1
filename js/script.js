@@ -70,4 +70,15 @@ function variableForQuestion7 (list) {
 
 variableForQuestion7 (cats);
 
+
+//question 8
+
+function createCats (cats) {
+    for(let i = 0; i < cats.length; i++) {
+        
+    }
+
+
+}
+
  
