@@ -62,8 +62,8 @@ resultsContainer.style.background = "yellow";
 
 function variableForQuestion7 (list) {
 
-    for(let i = 0; i < variableForQuestion7.length; i++) {
-        console.log(variableForQuestion7)
+    for(let i = 0; i < list.length; i++) {
+        console.log(list[i].name)
     }
 
 }
