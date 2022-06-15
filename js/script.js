@@ -52,3 +52,22 @@ paragraphs[i].style.color = "red";
 
 }
 
+// question 6
+
+const resultsContainer = document.querySelector (".results");
+resultsContainer.innerHTML = "<p>new paragraph</p>";
+resultsContainer.style.background = "yellow";
+
+// question 7 
+
+function variableForQuestion7 (list) {
+
+    for(let i = 0; i < variableForQuestion7.length; i++) {
+        console.log(variableForQuestion7)
+    }
+
+}
+
+variableForQuestion7 (cats);
+
+ 
